@@ -1,3 +1,4 @@
+# Profile
 Research Interests: reading, attention, video games, and brain structure/function
 
 <!---
